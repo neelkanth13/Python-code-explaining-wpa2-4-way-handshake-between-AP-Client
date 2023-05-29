@@ -1,0 +1,11 @@
+python wpa2_math.py 
+Unique a-nonce, s-nonce, PTK and MIC generated in a single AP-Client
+connectivity session
+Note that if SSID or password don't change, PMK will remain constant
+across sessions
+#########################################################################
+AP Generated a-Nonce: vRdZfFaFaIxE8TWi
+Client Generated s-Nonce: K1VMIwR1tNz1osAz
+PMK: d41ab4ad37f8db0432009acfe7f4682e176814e7eaf4c271cd69ade1ee823756
+PTK: 4225b94e39f9eada56e4961d2e1f1b1c2d4ff57d
+MIC: 319018d9edacbbe589105ec21eac6eaf8099a228f2f3a2065f691b62a36ab924
